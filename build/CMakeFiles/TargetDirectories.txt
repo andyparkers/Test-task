@@ -1,0 +1,3 @@
+/home/kamaz/test_task/build/CMakeFiles/rebuild_cache.dir
+/home/kamaz/test_task/build/CMakeFiles/edit_cache.dir
+/home/kamaz/test_task/build/CMakeFiles/test_task.dir
